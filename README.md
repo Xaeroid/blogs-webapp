@@ -1,6 +1,6 @@
 # blogs-webapp
 
-A web app that allows the user to upload blogs that is being stored in the database .
+A web app that allows the user to upload , edit , delete and view blogs that is being stored in the database .
 
 this app is made by using :
 1. HTML
